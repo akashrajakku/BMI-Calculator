@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    text-align: center;
+    border: 2px;
+}
+
+#height,
+#weight {
+  width: 150px;
+  height: 25px;
+  
+}
+
+#weight{
+    margin-bottom: 30px;
+}
+
+#results {
+    font-size: 25px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    color: rgb(241, 241, 241);
+  }
+
+button{
+    width: 140px;
+    height: 25px;
+    border-radius: 25%;
+    margin-bottom: 30px;
+}
+
+h1 {
+    padding-top: 100px;
+    margin-bottom: 30px;
+  }
+
+h3{
+    margin-bottom: 13px;
+}
+
