@@ -6,10 +6,10 @@ A BMI calculator to check your BMI
   I have used HTML, minimal CSS and basic Js to create this simple project.
   In js I have learnt usage of :
   "queryselector()", "addEventListner()", concept of callback in this project.
-  Moreover, I have checked for cases, where user if by mistake enters any character in place of numeric value , then it will show 'invalid entry' message :
+  Moreover, I have checked for cases, where user if by mistake enters any character in place of numeric value , then it will show 'invalid entry' message 
   ![image](https://github.com/akashrajakku/BMI-Calculator/assets/109020866/60959005-44ad-4b62-a9bd-a28706e19671)
 </p>
-While in all other cases it will give you your correct BMI :
+While in all other cases it will give you your correct BMI 
 ![Screenshot 2024-01-03 222856](https://github.com/akashrajakku/BMI-Calculator/assets/109020866/f1fad81a-64e0-40ec-988f-e85f961b09ae)
 
 <h4> Bonus :</h4>
